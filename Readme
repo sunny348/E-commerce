@@ -1,0 +1,11 @@
+// sanpreetsingh836
+// 1ZgPorc25AXatpIN
+// mongodb+srv://sanpreetsingh836:1ZgPorc25AXatpIN@cluster0.sd5gt.mongodb.net/
+
+
+// mongoose
+//   .connect("mongodb://0.0.0.0:27017/tutorial")
+//   .then(() => console.log("db connected"))
+//   .catch((err) => {
+//     console.error(err);
+//   });
